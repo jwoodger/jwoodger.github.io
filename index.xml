@@ -26,5 +26,14 @@ From 2017 to 2022 I was a student at the University of Toronto where I graduated
 Connect with me on my LinkedIn account. Email me at woodger.jack@gmail.com. </description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://jwoodger.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwoodger.github.io/projects/</guid>
+      <description>YrMix https://github.com/jwoodger/yrmix YrMix is a fully-featured web application using the MERN stack. It is designed to store all of a user&amp;#39;s mixtapes and playlists in one place, without being tied to any one music store or streaming service.</description>
+    </item>
+    
   </channel>
 </rss>
